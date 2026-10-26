@@ -152,8 +152,8 @@ This project was built collaboratively by our team:
 
 | Contributor | GitHub / Email | Role & Key Contributions |
 |---|---|---|
-| **Agam** | [`bhardwajag06@gmail.com`](mailto:bhardwajag06@gmail.com) | **Project Lead & Full-Stack Integration** — Workspace configuration, seed scripts, integration testing, and documentation |
+| **Agam** | [`bhardwajag06@gmail.com`](mailto:bhardwajag06@gmail.com) | **Full-Stack Integration** — Workspace configuration, seed scripts, integration testing, and documentation |
 | **Fanibhushan** | [`technozap5002@gmail.com`](mailto:technozap5002@gmail.com) | **Backend Architecture & Auth UI** — Express server setup, Trip/Activity CRUD APIs, Login/Signup interfaces, and public sharing |
 | **Shiv** | [`tysonshiv8@gmail.com`](mailto:tysonshiv8@gmail.com) | **Database & Geospatial Engineering** — Mongoose data models, Redux Toolkit state slices, and interactive Leaflet map integration |
-| **Arunveer** | [`aulakharunveer@gmail.com`](mailto:aulakharunveer@gmail.com) | **Frontend UI & API Security** — JWT authentication middleware, Tailwind styling system, navigation, and dashboard components |
+| **Arunveer & Agam** | [`aulakharunveer@gmail.com`](mailto:aulakharunveer@gmail.com) | **Frontend UI & API Security** — JWT authentication middleware, Tailwind styling system, navigation, and dashboard components |
 
